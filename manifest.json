@@ -1,0 +1,10 @@
+{
+    "id": "canvas-connections-modifier",
+    "name": "Canvas Connections Modifier",
+    "version": "1.0",
+    "minAppVersion": "0.9.12",
+    "description": "An Obsidian plugin, that modifies the connections between canvas nodes to make them look straight",
+    "author": "FireEdi",
+    "authorUrl": "https://github.com/FireEdi",
+    "isDesktopOnly": false
+}
